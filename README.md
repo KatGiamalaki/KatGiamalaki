@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KatGiamalaki
 - 👀 I’m interested in climate extremes and data science
-- 🌱 I’m currently learning Python and how to apply machine learning on climate extreme problems
+- 🌱 I’m currently learning Python and how to apply machine learning to predict climate extremes
 - 📫 You can reach me at katgiamalaki@gmail.com 
 
 <!---
